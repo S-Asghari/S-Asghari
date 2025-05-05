@@ -1,8 +1,10 @@
-## 🧑‍💻 About Me
+<h1>🧑‍💻 About Me</h1>
 
 I'm a **Machine Learning Engineer** with a passion for language models and AI applications that make real-world tasks smarter and smoother. I have over two years of hands-on experience developing full-stack AI solutions and conducting NLP research. I enjoy working across the ML lifecycle, from research to deployment.
 
-## 🛠️ Tech Stack
+---
+
+<h1>🛠️ Tech Stack</h1>
 
 ### 💡 Machine Learning & NLP
 
@@ -40,7 +42,9 @@ I'm a **Machine Learning Engineer** with a passion for language models and AI ap
 
 - PySpark, Hadoop MapReduce, Git, Jupyter Notebooks
 
-## 💼 Open to Work
+---
+
+<h1>💼 Open to Work</h1>
 
 I'm currently open to new opportunities! I'm particularly interested in roles involving:
 - Machine Learning Engineering
@@ -48,6 +52,12 @@ I'm currently open to new opportunities! I'm particularly interested in roles in
 - AI Development
 
 I thrive in collaborative environments where curiosity and creativity are encouraged. If your team is working on AI that matters, I’d love to connect. Feel free to [reach out](mailto:sara2asghari@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/saraasghari/).
+
+---
+
+<h1>📊 GitHub Stats</h1>
+
+![](https://github-readme-stats.vercel.app/api?username=s-asghari&hide_title=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=cobalt)
 
 <!--
 **S-Asghari/S-Asghari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
