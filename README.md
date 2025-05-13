@@ -10,7 +10,11 @@ I'm a **Machine Learning Engineer** with a passion for language models and AI ap
 
 <div align="center">[Fine-Tuning LLMs (Open-source & Proprietary)]</div>
 <div align="center">[Prompt Engineering]</div>
-<div align="center">[Hugging Face][LlamaIndex][Langchain]</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HuggingFace-yellow?style=for-the-badge&logo=HuggingFace&color=black" alt="Hugging Face">
+  [LlamaIndex]
+  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
