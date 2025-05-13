@@ -98,9 +98,10 @@ I thrive in collaborative environments where curiosity and creativity are encour
 
 <h1>📊 GitHub Stats</h1>
 
-![](https://github-readme-stats-saras-projects-b862bb47.vercel.app/api?username=s-asghari&hide_title=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=cobalt&card_width=460)
-<br/>
-![](https://github-readme-stats-saras-projects-b862bb47.vercel.app/api/top-langs/?username=s-asghari&hide=jupyter%20notebook,racket,php,hack&layout=compact&theme=aura_dark&card_width=460)
+<div align="center">
+  <img src="https://github-readme-stats-saras-projects-b862bb47.vercel.app/api?username=s-asghari&hide_title=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=cobalt&card_width=460" alt="GitHub Stats">
+  <img src="https://github-readme-stats-saras-projects-b862bb47.vercel.app/api/top-langs/?username=s-asghari&hide=jupyter%20notebook,racket,php,hack&layout=compact&theme=aura_dark&card_width=460" alt="Top Languages">
+</div>
 
 <!--
 **S-Asghari/S-Asghari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
