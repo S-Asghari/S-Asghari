@@ -8,9 +8,9 @@ I'm a **Machine Learning Engineer** with a passion for language models and AI ap
 
 ### 💡 Machine Learning & NLP
 
-<div align="center" style="border-radius: 10px;">
-  <img src="https://img.shields.io/badge/Fine--Tuning%20LLMs%20(Open--source%20%26%20Proprietary)-%238E75B2?style=for-the-badge&logoColor=white" alt="Fine-Tuning LLMs (Open-source & Proprietary)">
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-%2388CE02?style=for-the-badge&logoColor=white" alt="Prompt Engineering">
+<div align="center">
+  <img src="https://img.shields.io/badge/Fine--Tuning%20LLMs%20(Open--source%20%26%20Proprietary)-%238E75B2?style=flat&logoColor=white" alt="Fine-Tuning LLMs (Open-source & Proprietary)">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-%2388CE02?style=flat&logoColor=white" alt="Prompt Engineering">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/-HuggingFace-yellow?style=for-the-badge&logo=HuggingFace&color=black" alt="Hugging Face">
@@ -30,19 +30,20 @@ I'm a **Machine Learning Engineer** with a passion for language models and AI ap
   <img src="https://img.shields.io/badge/polars-%23CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars">
 
 </div>
-<div align="center">[Probabilistic Modeling] [Statistical Methods]</div>
-<div align="center">[Linear Algebra]</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Probabilistic%20Modeling-%23818F95?style=flat&logoColor=white" alt="Probabilistic Modeling"> 
+  <img alt="Statistical Methods" src="https://img.shields.io/badge/Statistical%20Methods-%23CD2640?style=flat&logoColor=white">
+  <img alt="Linear Algebra" src="https://img.shields.io/badge/Linear%20Algebra-%2300A162?style=flat&logoColor=white">
+</div>
 
 
 ### 🔍 Information Retrieval & Search
 
 <div align="center">
+  <img alt="Retrieval-Augmented Generation" src="https://img.shields.io/badge/Retrieval%20Augmented%20Generation-%23F0D722?style=flat&logoColor=white">
+  <img alt="Custom Search Engines" src="https://img.shields.io/badge/Custom%20Search%20Engines-%23F45D48?style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
-  [RAG (Retrieval-Augmented Generation)]
-  [ChromaDB]
-</div>
-<div align="center">
-  [Custom Search Engines] [Vector Stores]
+ <img alt="Vector Stores" src="https://img.shields.io/badge/Vector%20Stores-%23000000?style=flat&logoColor=white">
 </div>
 
 ### 🌐 Full-Stack Development
@@ -50,7 +51,7 @@ I'm a **Machine Learning Engineer** with a passion for language models and AI ap
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  [RESTful APIs]
+  <img src="https://img.shields.io/badge/RESTful%20APIs-%231BB3A4?style=flat&logoColor=white" alt="RESTful APIs badge">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
@@ -59,19 +60,22 @@ I'm a **Machine Learning Engineer** with a passion for language models and AI ap
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </div>
-<div align="center">[Integrating ML models into web applications]</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Integrating%20ML%20models%20into%20web%20applications-%23E6526F?style=flat&logoColor=white" alt="Integrating ML models into web applications badge">
+</div>
 
 ### ☁️ Cloud Platforms & Deployment
 
 <div align="center">
-  [Google Vertex AI] [Cloud Run]
+  <img src="https://img.shields.io/badge/Google%20Vertex%20AI-%2334A853?style=flat&logoColor=white" alt="Google Vertex AI badge">
+  <img src="https://img.shields.io/badge/Cloud%20Run-%23EA4335?style=flat&logoColor=white" alt="Cloud Run badge">
   <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=black" alt="AWS">
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  [CI/CD]
+  <img src="https://img.shields.io/badge/CI%2FCD-%23419EDA?style=flat&logoColor=white" alt="CI/CD badge">
   <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green" alt="nVIDIA CUDA">
 </div>
 
