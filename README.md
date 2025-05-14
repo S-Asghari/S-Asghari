@@ -8,11 +8,13 @@ I'm a **Machine Learning Engineer** with a passion for language models and AI ap
 
 ### 💡 Machine Learning & NLP
 
-<div align="center">[Fine-Tuning LLMs (Open-source & Proprietary)]</div>
-<div align="center">[Prompt Engineering]</div>
+<div align="center" style="border-radius: 10px;">
+  <img src="https://img.shields.io/badge/Fine--Tuning%20LLMs%20(Open--source%20%26%20Proprietary)-%238E75B2?style=for-the-badge&logoColor=white" alt="Fine-Tuning LLMs (Open-source & Proprietary)">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-%2388CE02?style=for-the-badge&logoColor=white" alt="Prompt Engineering">
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/-HuggingFace-yellow?style=for-the-badge&logo=HuggingFace&color=black" alt="Hugging Face">
-  [LlamaIndex]
+  <img src="https://img.shields.io/badge/llamaindex-45dff8?style=for-the-badge&logo=Ollama&logoColor=bb8deb" alt="LlamaIndex">
   <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
 </div>
 <div align="center">
@@ -25,7 +27,8 @@ I'm a **Machine Learning Engineer** with a passion for language models and AI ap
 <div align="center">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  [Polars]
+  <img src="https://img.shields.io/badge/polars-%23CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars">
+
 </div>
 <div align="center">[Probabilistic Modeling] [Statistical Methods]</div>
 <div align="center">[Linear Algebra]</div>
