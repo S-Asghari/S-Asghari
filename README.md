@@ -50,6 +50,7 @@ I'm a **Machine Learning Engineer** with a passion for language models and AI ap
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/RESTful%20APIs-%231BB3A4?style=flat&logoColor=white" alt="RESTful APIs badge">
 </div>
