@@ -110,11 +110,11 @@ I'm a **Machine Learning Engineer** with a passion for language models and AI ap
 <h1>💼 Open to Work</h1>
 
 I'm currently open to new opportunities! I'm particularly interested in roles involving:
-- Machine Learning Engineering
+- Machine Learning / AI Engineering
 - Data Science & Analysis
-- AI Development
+- Software Engineering
 
-I thrive in collaborative environments where curiosity and creativity are encouraged. If your team is working on AI that matters, I’d love to connect. Feel free to [reach out](mailto:sara2asghari@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/saraasghari/).
+I thrive in collaborative environments where curiosity and creativity are encouraged. If your team is working on AI, data, or software that matters, I’d love to connect. Feel free to [reach out](mailto:sara2asghari@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/saraasghari/). You can view my resume [here](https://github.com/S-Asghari/S-Asghari/blob/main/Resume.pdf).
 
 ---
 
